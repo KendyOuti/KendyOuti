@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm Kendy Outi</h1>
+<h1 align="center">Hi there 👋, I'm Kendy Outi</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 <img height="170" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KendyOuti&theme=radical&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
 </div>
 
-##
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-##
+<h3 align="left">Social:</h3>
 
 <a href="https://www.linkedin.com/in/kendy-outi-a3229b2b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a>
 
