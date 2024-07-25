@@ -2,9 +2,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KendyOuti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KendyOuti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
+<div><br>
+<img height="160" src ="https://awesome-github-stats.azurewebsites.net/user-stats/KendyOuti?theme=radical&cardType=github"/>
+ &nbsp; 
+<img height="160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KendyOuti&theme=radical&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
 </div>
 
 ##
@@ -19,6 +20,6 @@
 
 ##
 
-<a href="https://www.linkedin.com/in/kendy-outi-a3229b2b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kendy-outi-a3229b2b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40"></a>
 
 ###
