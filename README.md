@@ -3,9 +3,9 @@
 ###
 
 <div><br>
-<img height="160" src ="https://awesome-github-stats.azurewebsites.net/user-stats/KendyOuti?theme=radical&cardType=github"/>
+<img height="170" src ="https://awesome-github-stats.azurewebsites.net/user-stats/KendyOuti?theme=radical&cardType=github"/>
  &nbsp; 
-<img height="160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KendyOuti&theme=radical&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
+<img height="170" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KendyOuti&theme=radical&text_color=ffffff&border_color=E4E2E2&icon_color=6E33B5&layout=compact" />
 </div>
 
 ##
